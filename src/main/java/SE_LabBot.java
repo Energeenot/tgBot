@@ -250,6 +250,6 @@ public class SE_LabBot extends TelegramLongPollingBot {
     }
 
     public String getBotToken() {
-        return "5810814610:AAH2zJW3FYeDbWcGO9-FbxM_K6OIWZpqvHo";
+        return "";
     }
 }
